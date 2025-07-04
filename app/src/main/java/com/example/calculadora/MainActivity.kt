@@ -14,11 +14,6 @@ import androidx.core.view.updatePadding
 
 class MainActivity : AppCompatActivity() {
 
-    val SUMA = "+"
-    val RESTA = "-"
-    val MULTIPLICACION = "*"
-    val DIVISION = "/"
-    val PORCENTAJE = "%"
 
     var operacionActual = ""
 
